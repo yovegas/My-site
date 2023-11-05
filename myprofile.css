@@ -1,0 +1,43 @@
+body{
+    background-color: #e4f9f5;
+      
+     
+}
+.container {
+    display: flex;
+    align-items:center;
+    align-content: center;
+    flex-direction: column;
+    text-align: center;
+    
+}
+
+.mainimage {
+    width: 400px;
+    border-radius: 15px;
+}
+ .myname{
+    font-family: Thirsty Rough, cursive;
+     font-size: 5.625rem;
+     text-align: center;
+     color: #66bfbf;
+     margin: 0%;
+ }
+ .jobtitle {
+    font-family: cursive;
+    color: #b92020;
+    font-size: xxx-large;
+ }
+ .myphoto {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    ;
+ }
+
+ .contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+ }
